@@ -1,0 +1,7 @@
+<list_name>name="Root"&icon=" "&fanart=" "&plot=" "&lang=" "</list_name>Root
+<category>
+<category_name>name="נוער"&icon=" "&fanart=" "&plot=" "&data=@@ @@</category_name>
+</category>
+<category>
+<category_name>name="ערוצים לנוער"&icon=" "&fanart=" "&plot=" "&data=@@ @@</category_name>
+</category>
