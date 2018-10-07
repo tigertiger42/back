@@ -1,0 +1,13 @@
+<list_name>name="Root"&icon=" "&fanart=" "&plot=" "&lang=" "</list_name>Root
+<category>
+<category_name>name="סדרות בתרגום מובנה"&icon=" "&fanart=" "&plot="סדרות בתרגום מובנה"&data=@@ @@</category_name>
+</category>
+<category>
+<category_name>name="סדרות לא בתרגום מובנה"&icon=" "&fanart=" "&plot="סדרות לא בתרגום מובנה"&data=@@ @@</category_name>
+</category>
+<category>
+<category_name>name="סרטים בתרגום מובנה"&icon=" "&fanart=" "&plot="סרטים בתרגום מובנה"&data=@@ @@</category_name>
+</category>
+<category>
+<category_name>name="סרטים לא בתרגום מובנה"&icon=" "&fanart=" "&plot="סרטים לא בתרגום מובנה"&data=@@ @@</category_name>
+</category>
