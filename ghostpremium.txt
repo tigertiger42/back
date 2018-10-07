@@ -37,6 +37,3 @@
 </category-3>
 </category-2>
 </category>
-<category>
-<category_name>name="[B][COLOR orange]סדרות לא בתרגום מובנה[/B][/COLOR]"&icon="https://www.hdwallpapers.in/download/revolution_tv_series-wide.jpg"&fanart="http://www.dream-wallpaper.com/free-wallpaper/movie-wallpaper/merlin-tv-series-wallpaper/1920x1200/free-wallpaper-1.jpg"&plot="סדרות לא בתרדום מובנה"&data=@@ @@</category_name>
-</category>
