@@ -125,18 +125,3 @@
 </category-3>
 </category-2>
 </category>
-<category>
-<category_name>name="[B][COLOR orange]סדרות לא בתרגום מובנה[/B][/COLOR]"&icon=" https://www.mst3ktemple.com/images/logo-comchan.jpg"&fanart=" https://www.mst3ktemple.com/images/logo-comchan.jpg"&plot=" "&data=@@ @@</category_name>
-</category>
-<category>
-<category_name>name="[B][COLOR orange]סרטים בתרגום מובנה[/B][/COLOR]"&icon=" https://www.mst3ktemple.com/images/logo-comchan.jpg"&fanart=" https://www.mst3ktemple.com/images/logo-comchan.jpg"&plot=" "&data=@@ @@</category_name>
-</category>
-<category>
-<category_name>name="[B][COLOR orange]סרטים לא בתרגום מובנה[/B][/COLOR]"&icon=" https://www.mst3ktemple.com/images/logo-comchan.jpg"&fanart=" https://www.mst3ktemple.com/images/logo-comchan.jpg"&plot=" "&data=@@ @@</category_name>
-</category>
-<category>
-<category_name>name="[B][COLOR orange]קולנוע ישראלי באיכות גבוהה[/B][/COLOR]"&icon=" https://www.mst3ktemple.com/images/logo-comchan.jpg"&fanart=" https://www.mst3ktemple.com/images/logo-comchan.jpg"&plot=" "&data=@@ @@</category_name>
-</category>
-<category>
-<category_name>name="[B][COLOR orange]סרטים לילדים באיכות גבוהה[/B][/COLOR]"&icon=" https://www.mst3ktemple.com/images/logo-comchan.jpg"&fanart=" https://www.mst3ktemple.com/images/logo-comchan.jpg"&plot=" "&data=@@ @@</category_name>
-</category>
