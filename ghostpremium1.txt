@@ -236,5 +236,5 @@
 </category-2>
 </category>
 <category>
-<category_name>name="[B][COLOR cyan][קולנוע ישראלי[/B][/COLOR]"&icon="https://img.wcdn.co.il/w_200/9/0/6/2/906217-46.jpg"&fanart="https://www.srugim.co.il/i/wp-content/uploads/2016/10/%D7%9C%D7%9B%D7%99%D7%93%D7%94-53__w650h331q80.png"&plot="קולנוע ישראלי"&data=@@ @@</category_name>
+<category_name>name="[B][COLOR yellow]סרטים ישראלים באיכות גבוהה[/B][/COLOR]"&icon="https://img.wcdn.co.il/w_200/9/0/6/2/906217-46.jpg"&fanart="https://www.srugim.co.il/i/wp-content/uploads/2016/10/%D7%9C%D7%9B%D7%99%D7%93%D7%94-53__w650h331q80.png"&plot="קולנוע ישראלי"&data=@@ @@</category_name>
 </category>
