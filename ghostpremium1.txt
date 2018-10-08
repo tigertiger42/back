@@ -1,6 +1,6 @@
 <list_name>name="root"&icon=" "&fanart=" "&plot=" "&lang="heb"</list_name>
 <category>
-<category_name>name="סדרות בתרגום מובנה"&icon="https://s2.favim.com/orig/140716/divergent-fandoms-harry-potter-percy-jackson-Favim.com-1918641.jpg"&fanart="http://www.dream-wallpaper.com/free-wallpaper/movie-wallpaper/merlin-tv-series-wallpaper/1920x1200/free-wallpaper-1.jpg"&plot="סרטים"&data=@@ @@</category_name>
+<category_name>name="[B][COLOR green]סדרות בתרגום מובנה[/B][/COLOR]"&icon="https://s2.favim.com/orig/140716/divergent-fandoms-harry-potter-percy-jackson-Favim.com-1918641.jpg"&fanart="http://www.dream-wallpaper.com/free-wallpaper/movie-wallpaper/merlin-tv-series-wallpaper/1920x1200/free-wallpaper-1.jpg"&plot="סרטים"&data=@@ @@</category_name>
 <category-2>
 <category_name-2>name="בית הנייר"&icon="https://m.media-amazon.com/images/M/MV5BMzBlY2QzNzYtMWU1NS00NjFkLWJiMzItYmM3YTc4MDFjNDQwXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SY1000_CR0,0,667,1000_AL_.jpg"&fanart="https://m.media-amazon.com/images/M/MV5BMzBlY2QzNzYtMWU1NS00NjFkLWJiMzItYmM3YTc4MDFjNDQwXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SY1000_CR0,0,667,1000_AL_.jpg"&plot="שמונה גנבים תופסים בני ערובה ומסתגרים במטבעה המלכותית של ספרד, בשעה שארכי-פושע מתמרן את המשטרה כך שתפעל בהתאם לתוכניתו."&data=@@ @@</category_name-2>
 <category-3>
@@ -150,10 +150,10 @@
 </category-2>
 </category>
 <category>
-<category_name>name="סדרות לא בתרגום מובנה"&icon="https://s2.favim.com/orig/140716/divergent-fandoms-harry-potter-percy-jackson-Favim.com-1918641.jpg"&fanart="http://www.dream-wallpaper.com/free-wallpaper/movie-wallpaper/merlin-tv-series-wallpaper/1920x1200/free-wallpaper-1.jpg"&plot="סדרות לא בתרגום מובנה"&data=@@ @@</category_name>
+<category_name>name="[B][COLOR green]סדרות לא בתרגום מובנה[/B][/COLOR]"&icon="https://s2.favim.com/orig/140716/divergent-fandoms-harry-potter-percy-jackson-Favim.com-1918641.jpg"&fanart="http://www.dream-wallpaper.com/free-wallpaper/movie-wallpaper/merlin-tv-series-wallpaper/1920x1200/free-wallpaper-1.jpg"&plot="סדרות לא בתרגום מובנה"&data=@@ @@</category_name>
 </category>
 <category>
-<category_name>name="סדרות לילדים מדובבים"&icon="https://resizing.flixster.com/L2BsWBfrHeKhuKaY7vdNJNgmNHk=/206x305/v1.dDsyNjM4NDA7ajsxNzgzOTsxMjAwOzE5MjA7MTA4MA"&fanart="https://tbivision.com/files/2016/02/beat-bugs.png"&plot="סדרות לילדים"&data=@@ @@</category_name>
+<category_name>name="[B][COLOR green]סדרות לילדים מדובבים[/B][/COLOR]"&icon="https://resizing.flixster.com/L2BsWBfrHeKhuKaY7vdNJNgmNHk=/206x305/v1.dDsyNjM4NDA7ajsxNzgzOTsxMjAwOzE5MjA7MTA4MA"&fanart="https://tbivision.com/files/2016/02/beat-bugs.png"&plot="סדרות לילדים"&data=@@ @@</category_name>
 <category-2>
 <category_name-2>name="מפלצות העל בלעדי לגוסט פרימיום"&icon="http://www.wemoms.co.il/wp-content/uploads/2018/05/%D7%9E%D7%A4%D7%9C%D7%A6%D7%95%D7%AA-%D7%94%D7%A2%D7%9C.jpg"&fanart="https://i.ytimg.com/vi/tpShWM1jlIc/maxresdefault.jpg"&plot="מפלצות העל בלעדי לגוסט פרימיום"&data=@@ @@</category_name-2>
 <category-3>
@@ -181,13 +181,13 @@
 </category-2>
 </category>
 <category>
-<category_name>name="סרטים מדובבים לילדים"&icon="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4TG9Se_ItoQArccO5cVPwJHylCJo09ktHufgaIO-4PKVvMhG2"&fanart="https://wallpapertag.com/wallpaper/full/2/0/8/653827-kids-movies-wallpapers-1920x1080-for-iphone-5s.jpg"&plot="סרטים מדובבים לילדים"&data=@@ @@</category_name>
+<category_name>name="[B][COLOR orange]סרטים מדובבים לילדים[/B][/COLOR]"&icon="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4TG9Se_ItoQArccO5cVPwJHylCJo09ktHufgaIO-4PKVvMhG2"&fanart="https://wallpapertag.com/wallpaper/full/2/0/8/653827-kids-movies-wallpapers-1920x1080-for-iphone-5s.jpg"&plot="סרטים מדובבים לילדים"&data=@@ @@</category_name>
 <category-2>
 <item>name="מפלצות העל מצילות את האלווין"&link="https://letsupload.co/Z14/%D7%9E%D7%A4%D7%9C%D7%A6%D7%95%D7%AA_%D7%94%D7%A2%D7%9C_%D7%9E%D7%A6%D7%99%D7%9C%D7%95%D7%AA_%D7%90%D7%AA_%D7%94%D7%90%D7%9C%D7%95%D7%95%D7%99%D7%9F.mp4"&icon="https://lh3.googleusercontent.com/POGDliW6oOSExoNtUYHZjREZ-RhOOaSsi0oug0PC2Xx0hCWJyWB_2_B1rMAIAtd6vhT2zFeIOJ1MoxCp0HD_UtE23zwkkHNN3poiw5gUyCQ40v2hC8ls1homejLcFj8WekCdpv0LCkzV9sUKRQjYDXXJSgHfe7qo7as7vfn8fotJ8oDejVUH_tscZ3oUMORgLg0E46rsz7BI9rvcp3tqTIgn23xLbfJyp9VAHe0gUvOMuEdv1xCHZRhw6ngUmnbBgL4fklFGUoxqZfl5tSzBCS5PLMSAvY9CztN2ANU438_eeUH9vKiQ898gd-kLTC-WTPPKeElr81pyDy2ApijEcOGhM51EjUuQgx38GZz4pKAYwGitra-8uZRfyCD6Xn65jvJo9Un7oC8IxnE_HEyNQSqY2_vgkrFUhuuoyvJshHzhDG1L9AOUwNF-NWIc195taf6fVskgo_5T2gNROpb9sAzvInbr35gz4_kufH7ajpz1iB7bBvtLyBtbksktgkxvFnQuSMoG5CQJeBWzCoQktVkkA0ceI8rojtrjDFI48zanVhBO071Il4y9fcvYcu8r1SVKZEg2t88xO_ts0Q8wTwHmcomD0rVRPTtuyy2VRVT8vRDi56dCnJsdS9gmRvjc=w640-h360-no"&fanart="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyJmAl4n2z2JLMFBWuuZ5bBESUYwGIMw_3bUdjWNVSlmT8flhk"&plot="מפלצות העל מצילות את  האלווין"&imdbid=" "&year=" "&data=@@{"title":"מפלצות העל מצילות את  האלווין","Season": " ","Episode": " ","originaltitle": "מפלצות העל מצילות את  האלווין","year": "2018","dateadded": "2018-10-8 10:14:57","plot": "מפלצות העל מצילות את  האלווין","heb title": "מפלצות העל מצילות את  האלווין","mediatype": "tv","genre": "בלעדי לגוסט פרימיום","rating": "0","director": " ","studios": " ","writer": " ","code": " ","imdbnumber": " ","imdb": " ","tmdb": " ","votes": " ","trailer": " ","poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyJmAl4n2z2JLMFBWuuZ5bBESUYwGIMw_3bUdjWNVSlmT8flhk","icon": "https://lh3.googleusercontent.com/POGDliW6oOSExoNtUYHZjREZ-RhOOaSsi0oug0PC2Xx0hCWJyWB_2_B1rMAIAtd6vhT2zFeIOJ1MoxCp0HD_UtE23zwkkHNN3poiw5gUyCQ40v2hC8ls1homejLcFj8WekCdpv0LCkzV9sUKRQjYDXXJSgHfe7qo7as7vfn8fotJ8oDejVUH_tscZ3oUMORgLg0E46rsz7BI9rvcp3tqTIgn23xLbfJyp9VAHe0gUvOMuEdv1xCHZRhw6ngUmnbBgL4fklFGUoxqZfl5tSzBCS5PLMSAvY9CztN2ANU438_eeUH9vKiQ898gd-kLTC-WTPPKeElr81pyDy2ApijEcOGhM51EjUuQgx38GZz4pKAYwGitra-8uZRfyCD6Xn65jvJo9Un7oC8IxnE_HEyNQSqY2_vgkrFUhuuoyvJshHzhDG1L9AOUwNF-NWIc195taf6fVskgo_5T2gNROpb9sAzvInbr35gz4_kufH7ajpz1iB7bBvtLyBtbksktgkxvFnQuSMoG5CQJeBWzCoQktVkkA0ceI8rojtrjDFI48zanVhBO071Il4y9fcvYcu8r1SVKZEg2t88xO_ts0Q8wTwHmcomD0rVRPTtuyy2VRVT8vRDi56dCnJsdS9gmRvjc=w640-h360-no"}@@</item>
 </category-2>
 </category>
 <category>
-<category_name>name="סרטים לצפייה"&icon="http://nerdtrek.com/wp-content/uploads/2011/07/streaming-tv-movies.jpg"&fanart="https://static.adweek.com/adweek.com-prod/wp-content/uploads/2018/01/tv-shows-screens-PAGE-2017.gif"&plot="סרטים לצפייה"&data=@@ @@</category_name>
+<category_name>name="[B][COLOR orange]סרטים לצפיה לפי זא'נרים"&icon="http://nerdtrek.com/wp-content/uploads/2011/07/streaming-tv-movies.jpg"&fanart="https://static.adweek.com/adweek.com-prod/wp-content/uploads/2018/01/tv-shows-screens-PAGE-2017.gif"&plot="סרטים לצפייה"&data=@@ @@</category_name>
 <category-2>
 <category_name-2>name="@ערוץ הקומדיה"&icon="http://nerdtrek.com/wp-content/uploads/2011/07/streaming-tv-movies.jpg"&fanart="https://static.adweek.com/adweek.com-prod/wp-content/uploads/2018/01/tv-shows-screens-PAGE-2017.gif"&plot="סרטים לצפייה"&data=@@ @@</category_name-2>
 <category-3>
@@ -196,7 +196,7 @@
 </category-2>
 </category>
 <category>
-<category_name>name="סדרות לצפייה"&icon="http://nerdtrek.com/wp-content/uploads/2011/07/streaming-tv-movies.jpg"&fanart="https://static.adweek.com/adweek.com-prod/wp-content/uploads/2018/01/tv-shows-screens-PAGE-2017.gif"&plot="סדרות לצפייה"&data=@@ @@</category_name>
+<category_name>name="[B][COLOR green]סדרות לצפיה לפי זא'נרים[/B][/COLOR]"&icon="http://nerdtrek.com/wp-content/uploads/2011/07/streaming-tv-movies.jpg"&fanart="https://static.adweek.com/adweek.com-prod/wp-content/uploads/2018/01/tv-shows-screens-PAGE-2017.gif"&plot="סדרות לצפייה"&data=@@ @@</category_name>
 <category-2>
 <category_name-2>name="@ערוץ הקומדיה"&icon="http://nerdtrek.com/wp-content/uploads/2011/07/streaming-tv-movies.jpg"&fanart="https://static.adweek.com/adweek.com-prod/wp-content/uploads/2018/01/tv-shows-screens-PAGE-2017.gif"&plot="סדרות לצפייה"&data=@@ @@</category_name-2>
 <category-3>
