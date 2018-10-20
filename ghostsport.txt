@@ -1,0 +1,8 @@
+<list_name>name="Root"&icon=" "&fanart=" "&plot=" "&lang=" "</list_name>
+Root
+<category>
+<category_name>name="ספורט"&icon=" "&fanart=" "&plot=" "&data=@@ @@</category_name>
+<category-2>
+<item>name="ספורט 1"&link="https://video-weaver.lhr03.hls.ttvnw.net/v1/playlist/CqsEsQ16Dv19D2xR3Y8_RfSWMU2vcpd0aN1yQx1hz41Emyhr9gt7RQ16_D5lbdTm7_vDMkKhzjO7kWoFTMhLYJ93sbHBp0sZXY5rtRO9KEjt6GOvwvJhOUXU0EmTrMg0zaSoaAHnB7OVF6yxNIuREyhWMnpLQODmK40eDE-aU11Xcjbg0vQaKiBXLPDX6Y7f9sB5ww_UmwrO1VrhiYw4ILu96MYmK5wBEmy3NYu0ZHXTU8nwk2EHAG6SxLg6k3p2nJ9Mp83wk0jlTiMjTGp9_z5CKakhqJl8oQU6mhsrfvY-EFL2g-WRXjQ2_pwQq2LrE_B2F42KhRUnLRb8GVsylLFDSTEqacNns9YWkFzPDhfF3zymjggAF1Cq0fQPyCFIFMXrRX8teLd5JA15qbMcuXDGWtMFI-cT6MNgLIISIj6afJEMMTWkX5tnQqw-ujjedpljb3PB0ZQylsoGB0Pz5fFIunnhh-iRnyxPozZTzVAAXQvaSAR7srpPGa62FS6OwC8aou4k4cXPP12VrqwU1urbVLYdQQAioDTGdrM-lPDb9ojz7qdiDSigbrSvQ6f_sS_kvxqzu6CM6plUpdbri5T7yDuztAOeGCj_kL5FhcB_hCZNIHVZNlbg5QzijoKTwOmF4qIPMZ4RYdHba-QuK2hYuICK5uKDNsMkayIwdgrIVDrffQjUUjhT7ReXLyQ_DGpXyUG8Vu7r2rDrna9QrbyduIcmqGeMXYa_xOCDEhCV7f-pX7iUJPYGm42PZDgnGgyylMC6aRihrtwYj7c.m3u8"&icon=" "&fanart=" "&plot=" "&imdbid=" "&year=" "&data=@@{"title":"ספורט 1","Season": " ","Episode": " ","originaltitle": "ספורט 1","year": "","dateadded": "2018-10-20 20:53:56","plot": "","heb title": "ספורט 1","mediatype": "tv","genre": "","rating": "0","director": " ","studios": " ","writer": " ","code": "","imdbnumber": "","imdb": "","tmdb": " ","votes": " ","trailer": " ","poster": "","icon": ""}@@</item>
+</category-2>
+</category>
